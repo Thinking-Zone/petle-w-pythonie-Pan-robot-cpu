@@ -1,3 +1,3 @@
-for miumiu in range(1,9999) :
+for miumiu in range(1,100000000000000) :
     print(miumiu)
     
